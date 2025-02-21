@@ -2,6 +2,4 @@ Hello, Git!
 This is an update.
 Newest update...
 My first update!!!
-I will soon start :)
-
-
+jeg kan ændre noget
